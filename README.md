@@ -3,8 +3,8 @@
 Dashboard em Streamlit com dados abertos da [StatsBomb](https://github.com/statsbomb/open-data)
 (via `statsbombpy`) e visualizações com `mplsoccer`, `matplotlib` e `seaborn`.
 
-- **App publicado:**
-- **Repositório:**
+- **App publicado:** https://lbraga-dr1-at.streamlit.app
+- **Repositório:** lxbraga/DR1_AT/
 
 ## Pergunta
 
